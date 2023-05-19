@@ -1,5 +1,6 @@
 asgiref==3.6.0
 Django==4.2.1
+django-qrcodes @ file:///home/pita/django-qrcodes/dist/django-qrcodes-0.1.tar.gz
 Pillow==9.5.0
 pypng==0.20220715.0
 python-barcode==0.14.0
